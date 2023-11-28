@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_txt_size">18sp</dimen>
+    <dimen name="body_txt_size">16sp</dimen>
+    <dimen name="main_heading">29sp</dimen>
+
+    <dimen name="permissions_text_margin_start">20sp</dimen>
+    <dimen name="permissions_icon_size">48dp</dimen>
+
+    <dimen name="background_graphic_marginBottom">250dp</dimen>
+    <dimen name="logo_size">60dp</dimen>
+
+    <dimen name ="bg_upper_curve_width">120dp</dimen>
+    <dimen name ="bg_upper_curve_height">130dp</dimen>
+</resources>
